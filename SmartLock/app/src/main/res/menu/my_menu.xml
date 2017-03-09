@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Refresh"
+        android:icon="@drawable/refresh"
+        android:title="Refresh"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/Login"
+        android:orderInCategory="1"
+        android:title="Login"/>
+    <item
+        android:id="@+id/Update"
+        android:orderInCategory="2"
+        android:title="Update ACL"/>
+    <item
+        android:id="@+id/Help"
+        android:orderInCategory="3"
+        android:title="Help"/>
+    <item
+        android:id="@+id/Logout"
+        android:orderInCategory="4"
+        android:title="Logout"/>
+</menu>

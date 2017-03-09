@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sections">
+        <item >Home Front Door</item>
+        <item >Garage Door</item>
+        <item >Home Back Door</item>
+        <item >Office Door</item>
+    </string-array>
+</resources>

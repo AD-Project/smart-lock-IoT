@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartLock</string>
+    <string name="locked_img"></string>
+    <string name="username">admin</string>
+    <string name="password">dangerous</string>
+    <string name="numberHint">Mobile number</string>
+    <string name="emptyText"></string>
+</resources>
